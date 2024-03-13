@@ -28,6 +28,6 @@ export default Github
 
 
 export  const gitInfo = async () =>{
-    const resp =   await fetch('https://api.github.com/users/PujaKumari0')
+    const resp =   await fetch('https://api.github.com/users/Sachin7365')
     return resp.json()
 } 
